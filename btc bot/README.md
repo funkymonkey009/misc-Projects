@@ -1,1 +1,1 @@
-Poor atttempt to make a telegram bot for BTC. Probably
+### A simple Bitcoin price fetcher
